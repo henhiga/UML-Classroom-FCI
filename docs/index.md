@@ -79,16 +79,27 @@ Sistema para ajudar nas operações das fábricas de pizza
 # Diagrama de casos de uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/df01418f-d131-4440-8282-2d7d5a6ff7cc)
+
 
 # Descrição dos casos de uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+
+<img width="490" alt="Captura de Tela 2023-10-05 às 22 11 35" src="https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/e90702a6-9483-4a00-8cfe-926285545d29">
+<img width="490" alt="Captura de Tela 2023-10-05 às 22 18 56" src="https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/d6ddff43-5f14-4c39-818a-db66e432b25d">
+
 
 
 
 # Diagrama de sequencia
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
+
+![image](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/67ddbac7-32e0-4de9-bbd4-c0d3aa801f0f)
+![image](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/8df6868c-52a5-447f-9a55-911c130dfa89)
+
+
 
 # Diagrama de classes
 
