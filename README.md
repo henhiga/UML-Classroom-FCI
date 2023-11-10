@@ -6,6 +6,9 @@
 # Projeto: *<UML>*
 
 # Grupo: *<Não Sei>*
+henrique higa - 32256957
+aaron nur - 32317956
+henrique aguiar - 32331551
 
 # Descrição
 
