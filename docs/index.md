@@ -82,19 +82,23 @@ Sistema para ajudar nas operações das fábricas de pizza
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![WhatsApp Image 2023-11-26 at 16 32 15](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/c41b43de-33fe-465e-8562-983908b5a918)
+
 
 # Diagrama de Componentes
+![WhatsApp Image 2023-11-26 at 16 32 14](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/a65df0a0-f4fa-4d64-9166-8e0b96ed027d)
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+*&lt;Para a segurança usaremos Python e Django, uma dupla eficaz devido à forte segurança do Django e sua compatibilidade com várias ferramentas. O Django, conhecido por sua estrutura segura e sua capacidade de escalabilidade, será crucial para gerir o controle de acesso e os dados dos usuários de forma eficiente. Além disso, adotaremos o OpenSSL para a criptografia, assegurando uma transmissão de dados segura entre cliente e servidor e protegendo informações sensíveis.
+Para a parte de dados dos clientes, confiaremos no MySQL,ele ajudará na validação e armazenamento seguro dos dados por ser confiável e bom para lidar com grandes volumes. Utilizaremos a infraestrutura da AWS para hospedar tanto o banco de dados quanto a aplicação, aproveitando sua escalabilidade, desempenho, e os recursos de backup e recuperação de desastres, vitais para a continuidade dos negócios.&gt;*
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![WhatsApp Image 2023-11-26 at 16 32 15 (1)](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/75004a06-a4f4-4e1e-b1ca-32c27022dd63)
+
 
 # Referências
 
