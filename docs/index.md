@@ -83,10 +83,13 @@ Sistema para ajudar nas operações das fábricas de pizza
 # Diagrama de classes
 
 ![WhatsApp Image 2023-11-26 at 16 32 15](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/c41b43de-33fe-465e-8562-983908b5a918)
+![WhatsApp Image 2023-11-26 at 16 32 14 (1)](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/5ce8e4b0-6dbd-4cff-a1fd-30295d739cd3)
+
 
 
 # Diagrama de Componentes
-![WhatsApp Image 2023-11-26 at 16 32 14](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/a65df0a0-f4fa-4d64-9166-8e0b96ed027d)
+![WhatsApp Image 2023-11-26 at 19 57 25](https://github.com/henhiga/UML-Classroom-FCI/assets/113943665/d083e425-2a1e-4149-9ffb-b303c9e0e454)
+
 
 
 
